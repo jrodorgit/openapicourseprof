@@ -1,2 +1,2 @@
 # openapicourseprof
-curso open api repositorio del profesor
+curso open api mi repositorio
